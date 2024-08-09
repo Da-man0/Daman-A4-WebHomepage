@@ -1,0 +1,293 @@
+.nav {
+    display: flex;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.773);
+    width: auto;
+    margin-right: 0%;
+    margin-left: 0%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+}
+
+.nav1 {
+    display: flex;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 15px;
+
+}
+
+.nav3 {
+    margin-right: 12px;
+    border-style: none solid none none;
+    margin-top: -2.25%;
+    padding-top: 15px;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    padding-right: 10px;
+    height: 35px;
+    padding-top: ;
+}
+
+.nav3:hover {
+
+    color: red;
+}
+
+.logo {
+    width: 167px;
+    height: 160px;
+    padding-top: 1px;
+    padding-left: 9px;
+}
+
+.logo1 {
+    color: #000000;
+    font-size: 32px;
+    margin-left: 0%;
+    margin-top: 2.25%;
+    height: 10%;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    margin-bottom: 2px;
+}
+
+.title {
+    display: flex;
+    background-color: #ffffff;
+    height: 165px;
+    width: 1400px;
+
+}
+
+.opp {
+    width: 100%;
+    height: 300px;
+    margin-top: 0%;
+}
+
+.a {
+    background-color: #031640;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color: white;
+    font-family: serif;
+    padding-left: 2%;
+    text-decoration: none;
+    top: 0%;
+    margin-top: -1%;
+    font-weight: 500;
+}
+
+.ab {
+    color: #080707;
+    font-family: sans-serif;
+    margin-left: 10%;
+    padding-top: 1%;
+
+}
+
+.ab:hover {
+    background-color: #031640;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: #ffffff;
+}
+
+.cd {
+    list-style: none;
+    color: #424040;
+    text-align: justify;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+
+
+}
+
+.cd li {
+    margin-bottom: 30px;
+    border-style: none none solid none;
+    border-color: #42404094;
+    border-width: 1px;
+    padding-bottom: 2%;
+    padding-top: -5%;
+}
+
+.jkl {
+    width: 300px;
+}
+
+.cd:hover {
+    color: rgb(109, 12, 12);
+}
+
+.bigboss {
+    display: flex;
+    justify-content:space-evenly
+    width: 70%;
+    margin-left: 6%;
+    margin-right: 0%;
+
+}
+
+.boss {
+    display: flex;
+}
+
+.x {
+    width: 500px;
+}
+
+.y {
+    width: 480px;
+    padding-top: 10%;
+    padding-left: 2%;
+    height: 200px;
+}
+
+.z {
+    background-color: #031640;
+    width: 480px;
+    margin-left: 2%;
+    margin-top: -7%;
+    min-height: 200px;
+}
+
+.zz {
+    color: #19b5fe;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+}
+
+.zz:hover {
+    text-decoration: underline;
+}
+
+.zzz {
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-left: 15px;
+
+    font-weight: lighter;
+}
+
+.ee {
+    color: #19b5fe;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+}
+
+.ee:hover {
+    text-decoration: underline;
+}
+
+.r {
+    background-color: #ffffff;
+    margin-left: 27.5%;
+    margin-right: 4%;
+    margin-top: -6%;
+    margin-bottom: -1%;
+}
+
+.t {
+    width: 100%;
+    padding-bottom: 0%;
+
+}
+
+.h {
+    background-color: #031640;
+    padding-bottom: 1%;
+    padding-top: 0.5%;
+}
+
+.s {
+    color: #f7f7f7;
+    font-family: sans-serif;
+
+    text-align: center;
+
+
+}
+
+.s:hover {
+    text-decoration: underline;
+}
+
+
+.d1 {
+    background-color: #031640;
+}
+
+.d2 {
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 1%;
+    padding-top: 2%;
+    font-weight: lighter;
+
+}
+
+.d3 {
+    display: flex;
+    margin-top: 2%;
+    justify-content: space-around;
+    margin-right: 30%;
+    margin-left: 3%;
+    padding-bottom: 5%;
+}
+
+.d4 {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50%;
+    margin-left: 2%;
+}
+
+.d5 {
+    list-style: none;
+    color: #d1cece;
+    text-align: justify;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    margin-top: 5%;
+
+}
+
+.d5 li {
+    margin-bottom: 14px;
+    margin-left: -15%;
+}
+
+.d5 :hover {
+    color: #ffffff;
+}
+
+.oo {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.big{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    margin-left: 27.10%;
+    margin-right: 0%;
+    background-color: #ffffff;
+    margin-top: -5%;
+
+
+}

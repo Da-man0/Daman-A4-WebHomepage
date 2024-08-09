@@ -433,6 +433,7 @@ a:hover {
 
 .d5 li {
     margin-bottom: 14px;
+    margin-left: -7%;
 }
 
 .d5 :hover {
@@ -444,3 +445,4 @@ a:hover {
     font-family: sans-serif;
     font-weight: lighter;
 }
+
