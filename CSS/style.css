@@ -92,7 +92,7 @@ a:hover {
     background-repeat: no-repeat;
     background-color: rgb(241, 247, 247);
     width: 1380px;
-    height: 550px;
+    height: 400px;
     padding-left: 50px;
     padding-top: 20%;
 }
@@ -366,7 +366,7 @@ a:hover {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-300%, 3600%);
+    transform: translate(-300%, 3500%);
     background-color: #031640;
     color: white;
     padding: 10px 20px;
